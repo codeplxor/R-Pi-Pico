@@ -1,0 +1,5 @@
+[ OLED SCREEN ] -> [ PICO BOARD ]
+GND -> GND
+VCC -> 3V3 or 33V
+SCL/SCK -> GP11
+SDA -> GP10
